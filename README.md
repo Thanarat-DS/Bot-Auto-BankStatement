@@ -10,14 +10,8 @@ It is designed as a preparation step for my next project: **Auto Reconcile**.
 - ✅ Uses **Selenium** for browser automation
 
 ## 🛠️ Requirements
-- Python 3.x
+- Python 3.x ++
 - Google Chrome + ChromeDriver
 - Selenium
 - Pandas (for handling Excel data)
 - An Excel file containing bank login credentials
-
-## 📥 Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/bank-statement-bot.git
-   cd bank-statement-bot

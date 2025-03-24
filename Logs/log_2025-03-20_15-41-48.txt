@@ -1,0 +1,5 @@
+2025-03-20 15:41:52 - TTB: ✅ กดปุ่ม Accept
+2025-03-20 15:41:52 - TTB: ✅ ใส่ uid1
+2025-03-20 15:41:53 - TTB: ✅ กดปุ่มถัดไป
+2025-03-20 15:41:53 - ❌ Failed TTB Error: 'WebElement' object is not iterable
+2025-03-20 15:41:59 - 🛑 Script finished executing.
